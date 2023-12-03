@@ -1,6 +1,8 @@
 # flutter_game
 
-A new Flutter project.
+Hey All, this is a repo of a sample code on trying to build a game using Flutter and Flame engine!
+This code is a referenced from [Don K Jacob](https://github.com/don-k-jacob/flutter_dash_plane)
+Thanks to him for teaching the students at DevFest Kochi 2023 about game development using Flutter!
 
 ## Getting Started
 
